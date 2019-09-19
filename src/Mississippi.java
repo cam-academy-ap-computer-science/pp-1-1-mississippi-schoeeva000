@@ -1,3 +1,8 @@
+/* Grading Notes
+25/25 points
+Good job!
+-Sarah Gilliam
+*/
 public class Mississippi {
 
   public static void main(String[] args) {
